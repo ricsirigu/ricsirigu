@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hey there, I'm Ricccardo. I'm a security software engineer, i build security into your products](https://github.com/ricsirigu/ricsirigu/raw/master/bio.gif)
 
 <!--
 **ricsirigu/ricsirigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
