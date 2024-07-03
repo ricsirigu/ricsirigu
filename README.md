@@ -10,7 +10,8 @@ I also empower developers to create foundationally secure systems through compre
 
 I am proud to contribute to OWASP projects, collaborating with the global community to enhance application security standards and practices. Together, we strive to create a safer digital landscape for all.
 
-[![Linkedin: Riccardo Sirigu](https://img.shields.io/badge/-RiccardoSirigu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardosirigu/)](https://www.linkedin.com/in/riccardosirigu/)
+[![Linkedin: Riccardo Sirigu](https://img.shields.io/badge/-Riccardo_Sirigu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardosirigu/)](https://www.linkedin.com/in/riccardosirigu/)
+[![GitHub Riccardo Sirigu](https://img.shields.io/github/followers/ricsirigu?label=follow&style=social)](https://github.com/ricsirigu)
 
 <!--
 **ricsirigu/ricsirigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
