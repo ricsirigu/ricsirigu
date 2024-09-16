@@ -8,7 +8,7 @@ As a strong advocate for Secure-by-Design principles, I ensure that even emergin
 
 I also empower developers to create foundationally secure systems through comprehensive training programs. By helping them understand the importance of incorporating security at the core of their solutions, I enable companies to transform their approach to secure software development.
 
-I am proud to contribute to OWASP projects, collaborating with the global community to enhance application security standards and practices. Together, we strive to create a safer digital landscape for all.
+I am proud to contribute to OWASP projects, collaborating with the global community to enhance application security standards and practices. Together, we strive to create a more secure and trustworthy digital landscape for all.
 
 Currently, I'm the Head of Application Security at Abissi.
 
