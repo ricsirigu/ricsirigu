@@ -10,7 +10,7 @@ I also empower developers to create foundationally secure systems through compre
 
 I am proud to contribute to OWASP projects, collaborating with the global community to enhance application security standards and practices. Together, we strive to create a more secure and trustworthy digital landscape for all.
 
-Currently, I'm the Head of Application Security at Abissi.
+Currently, I'm the Offensive Security Director at Abissi.
 
 [![My Website](https://img.shields.io/badge/My-Website-ricsirigu)](https://www.riccardosirigu.com)
 [![Linkedin: Riccardo Sirigu](https://img.shields.io/badge/-Riccardo_Sirigu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardosirigu/)](https://www.linkedin.com/in/riccardosirigu/)
